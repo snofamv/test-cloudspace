@@ -1,0 +1,13 @@
+.layoutHeader {
+  height: 70px;
+}
+
+.loader{
+  font-family: sans-serif;
+  font-size: larger;
+  flex-direction: column;
+  margin-top: 15%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}

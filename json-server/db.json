@@ -1,0 +1,68 @@
+{
+  "personas": [
+    {
+      "id": "ad70",
+      "direccion": {
+        "direccion": "victoria 526",
+        "tipo": "C",
+        "numero": "526",
+        "region": {
+          "label": "Valparaiso",
+          "value": "6"
+        },
+        "comuna": "",
+        "provincia": "",
+        "pais": {
+          "label": "Chile",
+          "value": "CL"
+        }
+      },
+      "telefono": "956551422",
+      "rut": "19449843",
+      "dv": "8",
+      "nombres": "fabian",
+      "paterno": "niclous",
+      "materno": "iligaray",
+      "fecnac": "1997-05-27",
+      "genero": "M"
+    },
+    {
+      "id": "c0aa",
+      "direccion": {
+        "direccion": "asdasdasd",
+        "tipo": "C",
+        "numero": "123123",
+        "region": {
+          "label": "Valparaiso",
+          "value": "6"
+        },
+        "comuna": "",
+        "provincia": "",
+        "pais": {
+          "label": "Chile",
+          "value": "CL"
+        }
+      },
+      "telefono": "123123123",
+      "rut": "15096291",
+      "dv": "9",
+      "nombres": "axel ptricio",
+      "paterno": "niclous",
+      "materno": "iligaray",
+      "fecnac": "2002-02-01",
+      "genero": "M"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "ba93",
+      "email": "admin@adm.cl",
+      "password": "123"
+    },
+    {
+      "id": "c4c9",
+      "email": "adm@adm.cl",
+      "password": "123"
+    }
+  ]
+}
